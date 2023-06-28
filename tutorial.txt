@@ -8,6 +8,6 @@ git add .
 
 git remote add origin https://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@github.com/rafasantossss/AIPSII
 
-git commit -m "aula"
+git commit -m "Versão atual do projeto"
 
 git push --set-upstream origin main
