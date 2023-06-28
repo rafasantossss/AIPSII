@@ -1,6 +1,6 @@
 git clone https://github.com/rafasantossss/AIPSII
 
-git config --global user.name "rafaelsantossss"
+git config --global user.name "rafasantossss"
 
 git remote remove origin
 
