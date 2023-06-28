@@ -1,0 +1,25 @@
+body{
+  
+    text-align: center;
+    background-color: darkslategrey;
+    color: aliceblue;
+}
+#temperatura{
+    text-align: center;
+    text-shadow: 5px;
+    width: 200px;
+    height: 20px;
+}
+#botao{
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: lighter;
+    color: rgb(143, 143, 143);
+}
+#resultado{
+    text-align: center;;
+    font-size: 35px;
+    font-weight: bold;
+}
