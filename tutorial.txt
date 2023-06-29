@@ -6,7 +6,7 @@ git remote remove origin
 
 git add .
 
-git remote add origin https://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@github.com/rafasantossss/AIPSII
+git remote add origin https://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@github.com/rafasantossss/AIPSII
 
 git commit -m "Versão atual do projeto"
 
